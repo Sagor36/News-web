@@ -1,0 +1,6 @@
+{
+  "name": "Bangla News Card Builder",
+  "description": "An interactive Canva-lite designer for high-quality Bangla social media news cards with real-time editing, presets, and export capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
